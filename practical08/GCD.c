@@ -1,4 +1,4 @@
-nclude<stdio.h>
+#include<stdio.h>
 
 /*recursive function*/
 int recursive(int a, int b){
