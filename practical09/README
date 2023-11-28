@@ -1,0 +1,5 @@
+These are the codes for Practical 9 : 
+
+To compile use the below codes:
+
+gcc -Wall -o main main.c
