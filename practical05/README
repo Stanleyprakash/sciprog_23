@@ -1,0 +1,9 @@
+These are the codes for Practical 5:
+
+In this we will create a program that displays the Fibonacci series upto n and the hyperbolic arc tangent using a Maclaurin series.
+
+To compile use the below codes:
+
+gcc -o fibonacci fibonacci.c -lm
+
+gcc -o arctan arctan.c -lm 
