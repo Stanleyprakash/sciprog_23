@@ -1,0 +1,7 @@
+These are the codes for Practical 6 : 
+
+In this we will create a program that displays the Matrix Multiplication of two matrices.
+
+To compile use the below codes:
+
+gcc -o matrixmult matrixmult.c -lm
