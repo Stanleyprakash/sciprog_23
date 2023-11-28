@@ -1,0 +1,4 @@
+These are the codes for Practical 8 : 
+
+To compile use the below codes:
+gcc -o GCD GCD.c -lm
