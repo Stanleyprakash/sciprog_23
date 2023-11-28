@@ -1,0 +1,4 @@
+These are the codes for Practical 3
+
+To compile use the below codes:
+gcc -o Trapezodial Trapezodial.c -lm
