@@ -1,0 +1,9 @@
+To find e using Taylor series expansion for e^x and Dynamic Memory allocation.
+
+These are the codes for Practical 7 : 
+
+To compile use the below codes :
+
+gcc -o TaylorS TaylorS.c -lm
+
+gcc -o DMemoryAllocation DMemoryAllocation.c -lm
