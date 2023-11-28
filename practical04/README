@@ -1,0 +1,5 @@
+These are the codes for Practical 4
+
+To compile use the below codes:
+
+gcc -o Traptan Traptan.c -lm
